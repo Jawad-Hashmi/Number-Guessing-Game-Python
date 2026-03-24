@@ -25,10 +25,10 @@ At the end, it shows the total number of attempts taken.
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/Jawad-Hashmi/Number-Guessing-Game.git
+    git clone https://github.com/Jawad-Hashmi/Number-Guessing-Game-Pyhton-.git
 
 2. Navigate to the folder:
-   cd number-guessing-game
+  cd Number-Guessing-Game-Pyhton-
 
 3. Open in Jupyter Notebook:
    jupyter notebook
