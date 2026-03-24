@@ -72,7 +72,7 @@ number-guessing-game/
 ## 👤 Author
 
 Jawad Mehmood
-GitHub: Jawad-Hashmi
+GitHub: [Jawad-Hashmi](https://github.com/Jawad-Hashmi)
 
 ---
 
